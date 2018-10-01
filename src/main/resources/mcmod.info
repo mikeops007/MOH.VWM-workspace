@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MOH:VWM",
+  "name": "Medall of Honor: Vietnam War Mod",
+  "description": "The Vietnam War Mod.",
+  "version": "1.0",
+  "mcversion": "${1.7.10}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mikeops, the migthyducks, smellysox34"],
+  "credits": "thanks to all the people who are helping me to make this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
